@@ -1,0 +1,37 @@
+{
+  "name": "dm-grunt-task",
+  "description": "grunt-settings on dominomatrix",
+  "version": "1.0.0",
+  "author": "kenty",
+  "dependencies": {
+    "time-grunt": "~0.2.9"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-mincss": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-imageoptim": "*",
+    "grunt-imagine": "*",
+    "grunt-styledocco": "*",
+    "grunt-styleguide": "*",
+    "grunt-browser-sync": "*",
+    "load-grunt-tasks": "*",
+    "load-grunt-config": "^0.7.1",
+    "grunt-newer": "^0.6.1",
+    "grunt-autoprefixer": "^0.7.1"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  }
+}
